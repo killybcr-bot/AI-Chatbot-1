@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Fonctionnalités clés
+## 🚀 Fonctionnalités clés 
 
 ### 🤖 Assistant d'orientation IA (Eddy)
 -   **Discussion en langage naturel** : Posez des questions sur les écoles, les carrières ou des conseils d'orientation.
